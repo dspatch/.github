@@ -2,7 +2,7 @@
   <br />
   <img src="https://dspatch.dev/fulllogo.png" alt="d:spatch" width="400" />
   <br /><br />
-  <strong>Your agents. Your machines. Your rules.</strong>
+  <strong>Autonomous AI × Engineering</strong>
   <br /><br />
   <a href="https://dspatch.dev/"><img src="https://img.shields.io/badge/Website-c4f042?style=for-the-badge" alt="Website" /></a>
   &nbsp;
@@ -12,9 +12,6 @@
   <br /><br />
   <sub>Open-source agent orchestration platform.<br />Sandboxed Docker execution · Signal Protocol encryption · Cross-platform control.</sub>
   <br /><br />
-
-Open-source agent orchestration platform.
-Sandboxed Docker execution. Signal Protocol encryption. Cross-platform control.
 </div>
 
 ---
@@ -23,10 +20,11 @@ Sandboxed Docker execution. Signal Protocol encryption. Cross-platform control.
 - **End-to-end encrypted** — Signal Protocol (X3DH + Double Ratchet). The server relays ciphertext it cannot decrypt.
 - **Multi-device orchestration** — Launch agents on any desktop from any device. All data encrypted end-to-end.
 - **Human-in-the-loop** — Easily have agents escalate decisions with structured context and suggestions. Push notifications on every platform.
-- **Agent SDK** — One async function, one context object. Bring any model, any framework. Easily share with or pull from the community via the Agent Hub.
+- **Agent SDK** — One async function, one context object. Bring any model, any framework. Easily share with or pull from the community via the [Agent Hub](https://dspatch.dev/docs/latest/agent-sdk).
 - **Open source core** — Full local orchestration, sandbox, complete dashboard and Agent Hub. No server required. SaaS tier adds multi-device sync.
 
 ---
+
 <div align="center">
   <img src="https://img.shields.io/badge/Rust-1a1a2e?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   &nbsp;
@@ -43,7 +41,11 @@ Sandboxed Docker execution. Signal Protocol encryption. Cross-platform control.
   <img src="https://img.shields.io/badge/WebRTC-1a1a2e?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
   <br /><br />
 
-  <a href="https://github.com/dspatch/dspatch.app" style="text-decoration:none">
+  <a href="https://github.com/dspatch/dspatch.app">
     <img src="https://img.shields.io/badge/dspatch.app-Open_source_Flutter_app-1a1a2e?style=for-the-badge&logo=github&logoColor=black&labelColor=c4f042" alt="dspatch.app" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/dspatch/sdk.python">
+    <img src="https://img.shields.io/badge/sdk.python-Agent_SDK-1a1a2e?style=for-the-badge&logo=github&logoColor=black&labelColor=c4f042" alt="sdk.python" />
   </a>
 </div>
