@@ -20,9 +20,9 @@
 - **End-to-end encrypted** — Signal Protocol (X3DH + Double Ratchet). Zero plaintext on the wire, zero trust in the server.
 - **Multi-device orchestration** — Deploy and control agents across all your machines from anywhere. No port forwarding, no cloud.
 - **Human-in-the-loop** — Agents escalate decisions with structured context. Unresolved inquiries become push notifications on every device.
-- **One-function SDK** — One async function, one context object. Bring any model, any framework. Share your agents on the Community Hub.
+- **Agent SDK** — Easily integrate your own agents. Bring any model, any framework. Share your agents on the Community Hub.
 - **CLI-first** — Everything the app can do, headless. Script deployments, automate pipelines, run on machines without a display.
-- **Free & open source** — Full local orchestration, sandbox, dashboard, and Agent Hub. No server required.
+- **Free & open source** — Full local orchestration, sandbox, dashboard, and Community Hub. No server required.
 
 
 ---
