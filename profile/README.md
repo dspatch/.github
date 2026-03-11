@@ -16,12 +16,14 @@
 
 ---
 
-- **Sandboxed execution** — Each agent runs in a sandboxed environment with its own Docker daemon. Full root inside, completely sealed from the host.
-- **End-to-end encrypted** — Signal Protocol (X3DH + Double Ratchet). The server relays ciphertext it cannot decrypt.
-- **Multi-device orchestration** — Launch agents on any desktop from any device. All data encrypted end-to-end.
-- **Human-in-the-loop** — Easily have agents escalate decisions with structured context and suggestions. Push notifications on every platform.
-- **Agent SDK** — One async function, one context object. Bring any model, any framework. Easily share with or pull from the community via the [Agent Hub](https://dspatch.dev/docs/latest/agent-sdk).
-- **Open source core** — Full local orchestration, sandbox, complete dashboard and Agent Hub. No server required. SaaS tier adds multi-device sync.
+- **Sandboxed execution** — Every agent gets its own Docker daemon. Full root inside, fully sealed from the host.
+- **End-to-end encrypted** — Signal Protocol (X3DH + Double Ratchet). Zero plaintext on the wire, zero trust in the server.
+- **Multi-device orchestration** — Deploy and control agents across all your machines from anywhere. No port forwarding, no cloud.
+- **Human-in-the-loop** — Agents escalate decisions with structured context. Unresolved inquiries become push notifications on every device.
+- **One-function SDK** — One async function, one context object. Bring any model, any framework. Share your agents on the Community Hub.
+- **CLI-first** — Everything the app can do, headless. Script deployments, automate pipelines, run on machines without a display.
+- **Free & open source** — Full local orchestration, sandbox, dashboard, and Agent Hub. No server required.
+
 
 ---
 
@@ -42,6 +44,8 @@
   <br /><br />
 
   <a href="https://github.com/dspatch/dspatch.app"><img src="https://img.shields.io/badge/dspatch.app-Open_source_Flutter_app-1a1a2e?style=for-the-badge&logo=github&logoColor=black&labelColor=c4f042" alt="dspatch.app" /></a>
+  &nbsp;
+  <a href="https://github.com/dspatch/dspatch.app"><img src="https://img.shields.io/badge/dspatch--cli-Rust_CLI-1a1a2e?style=for-the-badge&logo=github&logoColor=black&labelColor=c4f042" alt="dspatch-cli" /></a>
   &nbsp;
   <a href="https://github.com/dspatch/sdk.python"><img src="https://img.shields.io/badge/sdk.python-Agent_SDK-1a1a2e?style=for-the-badge&logo=github&logoColor=black&labelColor=c4f042" alt="sdk.python" /></a>
 </div>
