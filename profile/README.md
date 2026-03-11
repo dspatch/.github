@@ -41,11 +41,7 @@
   <img src="https://img.shields.io/badge/WebRTC-1a1a2e?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
   <br /><br />
 
-  <a href="https://github.com/dspatch/dspatch.app">
-    <img src="https://img.shields.io/badge/dspatch.app-Open_source_Flutter_app-1a1a2e?style=for-the-badge&logo=github&logoColor=black&labelColor=c4f042" alt="dspatch.app" />
-  </a>
+  <a href="https://github.com/dspatch/dspatch.app"><img src="https://img.shields.io/badge/dspatch.app-Open_source_Flutter_app-1a1a2e?style=for-the-badge&logo=github&logoColor=black&labelColor=c4f042" alt="dspatch.app" /></a>
   &nbsp;
-  <a href="https://github.com/dspatch/sdk.python">
-    <img src="https://img.shields.io/badge/sdk.python-Agent_SDK-1a1a2e?style=for-the-badge&logo=github&logoColor=black&labelColor=c4f042" alt="sdk.python" />
-  </a>
+  <a href="https://github.com/dspatch/sdk.python"><img src="https://img.shields.io/badge/sdk.python-Agent_SDK-1a1a2e?style=for-the-badge&logo=github&logoColor=black&labelColor=c4f042" alt="sdk.python" /></a>
 </div>
