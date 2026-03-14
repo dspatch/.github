@@ -16,7 +16,7 @@
 
 ---
 
-- **Sandboxed execution** — Every agent gets its own Docker daemon. Full root inside, fully sealed from the host.
+- **Sandboxed execution** — Every agent runs in a workspace. Every workspace gets its own Docker container. Full root inside, fully sealed from the host.
 - **End-to-end encrypted** — Signal Protocol (X3DH + Double Ratchet). Zero plaintext on the wire, zero trust in the server.
 - **Multi-device orchestration** — Deploy and control agents across all your machines from anywhere. No port forwarding, no cloud.
 - **Human-in-the-loop** — Agents escalate decisions with structured context. Unresolved inquiries become push notifications on every device.
