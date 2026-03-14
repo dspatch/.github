@@ -22,7 +22,7 @@
 - **Human-in-the-loop** — Agents escalate decisions with structured context. Unresolved inquiries become push notifications on every device.
 - **Agent SDK** — Easily integrate your own agents. Bring any model, any framework. Share your agents on the Community Hub.
 - **CLI-first** — Everything the app can do, headless. Script deployments, automate pipelines, run on machines without a display.
-- **Free & open source** — Full local orchestration, sandbox, dashboard, and Community Hub. No server required.
+- **Open Source** — Full local orchestration, sandbox, dashboard, and Community Hub. No server required.
 
 
 ---
