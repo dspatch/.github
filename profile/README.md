@@ -2,7 +2,7 @@
   <br />
   <img src="https://dspatch.dev/fulllogo.png" alt="d:spatch" width="400" />
   <br /><br />
-  <strong>Autonomous AI × Engineering</strong>
+  <strong>Autonomous Agents × Engineering</strong>
   <br /><br />
   <a href="https://dspatch.dev/"><img src="https://img.shields.io/badge/Website-c4f042?style=for-the-badge" alt="Website" /></a>
   &nbsp;
